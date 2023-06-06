@@ -1,0 +1,23 @@
+{
+    "menu": {
+        "home": "Home",
+        "who_we_are": "Who we are",
+        "contacts": "Contacts",
+        "blog": "Blog",
+        "connect": "Let's connect"
+    },
+    "home":{
+        "hero_title": "Transform your brand's vision into reality, innovative solutions with Irradia",
+        "hero_description": "Our team of experienced developers, designers, strategists & project managers work collaboratively to create custom designs that are tailored to your specific needs. From logo design and branding to web or software development and marketing. We've got you covered!",
+        "hero_cta_text": "Contact us",
+        "hero_glassbox_title": "24+ Reviews",
+        "hero_glassbox_description": "More than 24 clients are satisfied with our work",
+        "how_we_work": "how we work",
+        "how_we_work_description": "Our design process is highly collaborative, so you can expect to be involved in every step of the way.",
+        "case_studies": "Case studies",
+        "case_studies_description": "The stories of our clients.",
+        "newsletter_title": "Subscribe to our newsletter",
+        "subscribe": "Subscribe",
+        "active_users": "Active users"
+    }
+}

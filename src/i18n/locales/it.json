@@ -1,0 +1,23 @@
+{
+    "menu": {
+        "home": "Home",
+        "who_we_are": "Chi siamo",
+        "contacts": "Contatti",
+        "blog": "Blog",
+        "connect": "Connettiamoci"
+    },
+    "home":{
+        "hero_title": "Trasforma la visione del tuo brand in realtà, soluzioni innovative con Irradia",
+        "hero_description": "Il nostro team di sviluppatori, designer, strateghi e project manager esperti lavora in collaborazione per creare design personalizzati che si adattano alle tue esigenze specifiche. Dal design del logo e del marchio allo sviluppo di siti web o software e al marketing. Siamo al tuo fianco!",
+        "hero_cta_text": "Contattaci",
+        "hero_glassbox_title": "24+ Recensioni",
+        "hero_glassbox_description": "Più di 24 clienti sono soddisfatti del nostro lavoro",
+        "how_we_work": "come lavoriamo",
+        "how_we_work_description": "Il nostro processo di progettazione è altamente collaborativo, quindi puoi aspettarti di essere coinvolto in ogni fase del processo.",
+        "case_studies": "Studi di caso",
+        "case_studies_description": "Le storie dei nostri clienti.",
+        "newsletter_title": "Iscriviti alla nostra newsletter",
+        "subscribe": "Iscriviti",
+        "active_users": "Utenti attivi"
+    }
+}
